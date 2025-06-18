@@ -27,6 +27,12 @@ go get github.com/agastiya/go-s3storage
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+---
+
 ## 🙏 Acknowledgements
 
  - [AWS SDK for Go](https://github.com/aws/aws-sdk-go-v2)
